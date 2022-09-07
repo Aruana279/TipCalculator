@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; configuration.title = "20%"; ObjectID = "1bb-Wq-Vuj"; */
+"1bb-Wq-Vuj.configuration.title" = "20%";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1bb-Wq-Vuj"; */
+"1bb-Wq-Vuj.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "15%"; ObjectID = "B0d-FD-lum"; */
+"B0d-FD-lum.configuration.title" = "15%";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "B0d-FD-lum"; */
+"B0d-FD-lum.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Bill Total"; ObjectID = "Fcf-aK-d16"; */
+"Fcf-aK-d16.text" = "Полная сумма";
+
+/* Class = "UIButton"; configuration.title = "10%"; ObjectID = "KWY-FY-iBe"; */
+"KWY-FY-iBe.configuration.title" = "10%";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KWY-FY-iBe"; */
+"KWY-FY-iBe.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "MNQ-Ko-wdT"; */
+"MNQ-Ko-wdT.text" = "$";
+
+/* Class = "UIButton"; configuration.title = "Calculate Tip"; ObjectID = "gII-nF-LPz"; */
+"gII-nF-LPz.configuration.title" = "Посчитать чаевые";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gII-nF-LPz"; */
+"gII-nF-LPz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Tip Amount"; ObjectID = "lLi-9f-CwL"; */
+"lLi-9f-CwL.text" = "Чаевые";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "wLX-8J-0TG"; */
+"wLX-8J-0TG.text" = "%";
